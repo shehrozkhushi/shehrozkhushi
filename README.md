@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @shehrozkhushi
-- 👀 I’m interested in Mern Stack Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Rehan Azaz
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-shehrozkhushi/shehrozkhushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a professional MERN Stack Developer
+- 🌱 Currently exploring new technologies and frameworks to enhance my skills
+- 💞️ I’m looking to collaborate on interesting and impactful projects
+- 📫 How to reach me: [shehrozkhushi45@gmail.com] or [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex problems and always look for new ways to improve my development process!
